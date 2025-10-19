@@ -1,0 +1,8 @@
+# Arquivo: requirements.txt
+
+flask
+gunicorn
+pandas
+numpy
+scikit-learn
+joblib
